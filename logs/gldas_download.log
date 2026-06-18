@@ -1,0 +1,127 @@
+2026-06-10 04:36:20,355 INFO Authentification via Bearer token
+2026-06-10 04:36:20,357 INFO 132 fichiers listés dans subset_GLDAS_NOAH025_M_2.1_20260610_030530_.txt
+2026-06-10 04:36:20,362 INFO 4 déjà présents, 128 à télécharger
+2026-06-10 04:37:10,868 INFO   [1/128] ✓ GLDAS_NOAH025_M.A201505.021.nc4 — OK (24697 Ko)  (1.2 f/min)
+2026-06-10 04:37:23,175 INFO   [2/128] ✓ GLDAS_NOAH025_M.A201507.021.nc4 — OK (23898 Ko)  (1.9 f/min)
+2026-06-10 04:37:25,502 INFO   [3/128] ✓ GLDAS_NOAH025_M.A201508.021.nc4 — OK (24180 Ko)  (2.8 f/min)
+2026-06-10 04:37:28,372 INFO   [4/128] ✓ GLDAS_NOAH025_M.A201506.021.nc4 — OK (24297 Ko)  (3.5 f/min)
+2026-06-10 04:38:08,544 INFO   [5/128] ✓ GLDAS_NOAH025_M.A201509.021.nc4 — OK (24640 Ko)  (2.8 f/min)
+2026-06-10 04:38:14,654 INFO   [6/128] ✓ GLDAS_NOAH025_M.A201511.021.nc4 — OK (24623 Ko)  (3.1 f/min)
+2026-06-10 04:38:38,598 INFO   [7/128] ✓ GLDAS_NOAH025_M.A201512.021.nc4 — OK (24305 Ko)  (3.0 f/min)
+2026-06-10 04:38:39,944 INFO   [8/128] ✓ GLDAS_NOAH025_M.A201510.021.nc4 — OK (24990 Ko)  (3.4 f/min)
+2026-06-10 04:38:55,773 INFO   [9/128] ✓ GLDAS_NOAH025_M.A201602.021.nc4 — OK (24385 Ko)  (3.5 f/min)
+2026-06-10 04:39:10,562 INFO   [10/128] ✓ GLDAS_NOAH025_M.A201601.021.nc4 — OK (24267 Ko)  (3.5 f/min)
+2026-06-10 04:39:37,516 INFO   [11/128] ✓ GLDAS_NOAH025_M.A201605.021.nc4 — OK (24682 Ko)  (3.3 f/min)
+2026-06-10 04:39:45,850 INFO   [12/128] ✓ GLDAS_NOAH025_M.A201603.021.nc4 — OK (24602 Ko)  (3.5 f/min)
+2026-06-10 04:39:52,958 INFO   [13/128] ✓ GLDAS_NOAH025_M.A201604.021.nc4 — OK (24670 Ko)  (3.7 f/min)
+2026-06-10 04:40:11,667 INFO   [14/128] ✓ GLDAS_NOAH025_M.A201606.021.nc4 — OK (24205 Ko)  (3.6 f/min)
+2026-06-10 04:40:31,483 INFO   [15/128] ✓ GLDAS_NOAH025_M.A201607.021.nc4 — OK (23914 Ko)  (3.6 f/min)
+2026-06-10 04:40:48,690 INFO   [16/128] ✓ GLDAS_NOAH025_M.A201609.021.nc4 — OK (24591 Ko)  (3.6 f/min)
+2026-06-10 04:40:55,420 INFO   [17/128] ✓ GLDAS_NOAH025_M.A201608.021.nc4 — OK (24143 Ko)  (3.7 f/min)
+2026-06-10 04:41:22,924 INFO   [18/128] ✓ GLDAS_NOAH025_M.A201610.021.nc4 — OK (25029 Ko)  (3.6 f/min)
+2026-06-10 04:41:49,663 INFO   [19/128] ✓ GLDAS_NOAH025_M.A201612.021.nc4 — OK (24244 Ko)  (3.5 f/min)
+2026-06-10 04:42:05,736 INFO   [20/128] ✓ GLDAS_NOAH025_M.A201611.021.nc4 — OK (24544 Ko)  (3.5 f/min)
+2026-06-10 04:42:18,606 INFO   [21/128] ✓ GLDAS_NOAH025_M.A201701.021.nc4 — OK (24230 Ko)  (3.5 f/min)
+2026-06-10 04:42:38,365 INFO   [22/128] ✓ GLDAS_NOAH025_M.A201702.021.nc4 — OK (24143 Ko)  (3.5 f/min)
+2026-06-10 04:42:39,991 INFO   [23/128] ✓ GLDAS_NOAH025_M.A201703.021.nc4 — OK (24575 Ko)  (3.6 f/min)
+2026-06-10 04:43:19,771 INFO   [24/128] ✓ GLDAS_NOAH025_M.A201704.021.nc4 — OK (24609 Ko)  (3.4 f/min)
+2026-06-10 04:43:22,023 INFO   [25/128] ✓ GLDAS_NOAH025_M.A201707.021.nc4 — OK (23930 Ko)  (3.6 f/min)
+2026-06-10 04:43:25,515 INFO   [26/128] ✓ GLDAS_NOAH025_M.A201705.021.nc4 — OK (24782 Ko)  (3.7 f/min)
+2026-06-10 04:43:59,665 INFO   [27/128] ✓ GLDAS_NOAH025_M.A201706.021.nc4 — OK (24376 Ko)  (3.5 f/min)
+2026-06-10 04:44:21,489 INFO   [28/128] ✓ GLDAS_NOAH025_M.A201709.021.nc4 — OK (24638 Ko)  (3.5 f/min)
+2026-06-10 04:44:22,725 INFO   [29/128] ✓ GLDAS_NOAH025_M.A201710.021.nc4 — OK (24911 Ko)  (3.6 f/min)
+2026-06-10 04:44:38,727 INFO   [30/128] ✓ GLDAS_NOAH025_M.A201711.021.nc4 — OK (24627 Ko)  (3.6 f/min)
+2026-06-10 04:44:44,528 INFO   [31/128] ✓ GLDAS_NOAH025_M.A201708.021.nc4 — OK (24108 Ko)  (3.7 f/min)
+2026-06-10 04:45:09,464 INFO   [32/128] ✓ GLDAS_NOAH025_M.A201712.021.nc4 — OK (24316 Ko)  (3.6 f/min)
+2026-06-10 04:45:20,128 INFO   [33/128] ✓ GLDAS_NOAH025_M.A201802.021.nc4 — OK (24034 Ko)  (3.7 f/min)
+2026-06-10 04:45:36,621 INFO   [34/128] ✓ GLDAS_NOAH025_M.A201803.021.nc4 — OK (24485 Ko)  (3.7 f/min)
+2026-06-10 04:45:43,411 INFO   [35/128] ✓ GLDAS_NOAH025_M.A201801.021.nc4 — OK (24236 Ko)  (3.7 f/min)
+2026-06-10 04:45:52,804 INFO   [36/128] ✓ GLDAS_NOAH025_M.A201804.021.nc4 — OK (24675 Ko)  (3.8 f/min)
+2026-06-10 04:46:19,979 INFO   [37/128] ✓ GLDAS_NOAH025_M.A201805.021.nc4 — OK (24695 Ko)  (3.7 f/min)
+2026-06-10 04:46:23,449 INFO   [38/128] ✓ GLDAS_NOAH025_M.A201806.021.nc4 — OK (24387 Ko)  (3.8 f/min)
+2026-06-10 04:46:26,092 INFO   [39/128] ✓ GLDAS_NOAH025_M.A201808.021.nc4 — OK (24165 Ko)  (3.9 f/min)
+2026-06-10 04:47:04,597 INFO   [40/128] ✓ GLDAS_NOAH025_M.A201807.021.nc4 — OK (23944 Ko)  (3.7 f/min)
+2026-06-10 04:47:08,012 INFO   [41/128] ✓ GLDAS_NOAH025_M.A201810.021.nc4 — OK (25003 Ko)  (3.8 f/min)
+2026-06-10 04:47:08,709 INFO   [42/128] ✓ GLDAS_NOAH025_M.A201809.021.nc4 — OK (24684 Ko)  (3.9 f/min)
+2026-06-10 04:47:09,904 INFO   [43/128] ✓ GLDAS_NOAH025_M.A201811.021.nc4 — OK (24684 Ko)  (4.0 f/min)
+2026-06-10 04:47:55,959 INFO   [44/128] ✓ GLDAS_NOAH025_M.A201901.021.nc4 — OK (24274 Ko)  (3.8 f/min)
+2026-06-10 04:47:56,404 INFO   [45/128] ✓ GLDAS_NOAH025_M.A201902.021.nc4 — OK (24119 Ko)  (3.9 f/min)
+2026-06-10 04:48:04,685 INFO   [46/128] ✓ GLDAS_NOAH025_M.A201903.021.nc4 — OK (24690 Ko)  (3.9 f/min)
+2026-06-10 04:48:09,418 INFO   [47/128] ✓ GLDAS_NOAH025_M.A201812.021.nc4 — OK (24297 Ko)  (4.0 f/min)
+2026-06-10 04:48:40,546 INFO   [48/128] ✓ GLDAS_NOAH025_M.A201904.021.nc4 — OK (24778 Ko)  (3.9 f/min)
+2026-06-10 04:48:41,925 INFO   [49/128] ✓ GLDAS_NOAH025_M.A201905.021.nc4 — OK (24887 Ko)  (4.0 f/min)
+2026-06-10 04:48:50,552 INFO   [50/128] ✓ GLDAS_NOAH025_M.A201906.021.nc4 — OK (24284 Ko)  (4.0 f/min)
+2026-06-10 04:49:17,918 INFO   [51/128] ✓ GLDAS_NOAH025_M.A201907.021.nc4 — OK (23908 Ko)  (3.9 f/min)
+2026-06-10 04:49:27,794 INFO   [52/128] ✓ GLDAS_NOAH025_M.A201908.021.nc4 — OK (24057 Ko)  (4.0 f/min)
+2026-06-10 04:49:36,074 INFO   [53/128] ✓ GLDAS_NOAH025_M.A201910.021.nc4 — OK (24999 Ko)  (4.0 f/min)
+2026-06-10 04:49:41,298 INFO   [54/128] ✓ GLDAS_NOAH025_M.A201909.021.nc4 — OK (24741 Ko)  (4.0 f/min)
+2026-06-10 04:50:34,823 INFO   [55/128] ✓ GLDAS_NOAH025_M.A201912.021.nc4 — OK (24298 Ko)  (3.9 f/min)
+2026-06-10 04:50:50,380 INFO   [56/128] ✓ GLDAS_NOAH025_M.A201911.021.nc4 — OK (24649 Ko)  (3.9 f/min)
+2026-06-10 04:51:09,628 INFO   [57/128] ✓ GLDAS_NOAH025_M.A202001.021.nc4 — OK (24311 Ko)  (3.8 f/min)
+2026-06-10 04:52:12,900 INFO   [58/128] ✓ GLDAS_NOAH025_M.A202003.021.nc4 — OK (24546 Ko)  (3.7 f/min)
+2026-06-10 04:52:20,487 INFO   [59/128] ✓ GLDAS_NOAH025_M.A202005.021.nc4 — OK (24743 Ko)  (3.7 f/min)
+2026-06-10 04:52:54,893 INFO   [60/128] ✓ GLDAS_NOAH025_M.A202004.021.nc4 — OK (24718 Ko)  (3.6 f/min)
+2026-06-10 04:52:58,560 INFO   [61/128] ✓ GLDAS_NOAH025_M.A202002.021.nc4 — OK (24392 Ko)  (3.7 f/min)
+2026-06-10 04:53:08,792 INFO   [62/128] ✓ GLDAS_NOAH025_M.A202006.021.nc4 — OK (24275 Ko)  (3.7 f/min)
+2026-06-10 04:53:26,635 INFO   [63/128] ✓ GLDAS_NOAH025_M.A202007.021.nc4 — OK (23907 Ko)  (3.7 f/min)
+2026-06-10 04:54:12,652 INFO   [64/128] ✓ GLDAS_NOAH025_M.A202008.021.nc4 — OK (24193 Ko)  (3.6 f/min)
+2026-06-10 04:54:15,477 INFO   [65/128] ✓ GLDAS_NOAH025_M.A202010.021.nc4 — OK (24954 Ko)  (3.6 f/min)
+2026-06-10 04:54:37,900 INFO   [66/128] ✓ GLDAS_NOAH025_M.A202011.021.nc4 — OK (24712 Ko)  (3.6 f/min)
+2026-06-10 04:54:39,706 INFO   [67/128] ✓ GLDAS_NOAH025_M.A202009.021.nc4 — OK (24615 Ko)  (3.7 f/min)
+2026-06-10 04:55:07,442 INFO   [68/128] ✓ GLDAS_NOAH025_M.A202012.021.nc4 — OK (24335 Ko)  (3.6 f/min)
+2026-06-10 04:55:26,674 INFO   [69/128] ✓ GLDAS_NOAH025_M.A202101.021.nc4 — OK (24324 Ko)  (3.6 f/min)
+2026-06-10 04:55:40,453 INFO   [70/128] ✓ GLDAS_NOAH025_M.A202102.021.nc4 — OK (24099 Ko)  (3.6 f/min)
+2026-06-10 04:56:02,759 INFO   [71/128] ✓ GLDAS_NOAH025_M.A202104.021.nc4 — OK (24686 Ko)  (3.6 f/min)
+2026-06-10 04:56:11,728 INFO   [72/128] ✓ GLDAS_NOAH025_M.A202103.021.nc4 — OK (24663 Ko)  (3.6 f/min)
+2026-06-10 04:56:21,900 INFO   [73/128] ✓ GLDAS_NOAH025_M.A202105.021.nc4 — OK (24720 Ko)  (3.6 f/min)
+2026-06-10 04:58:27,640 WARNING   [74/128] ✗ GLDAS_NOAH025_M.A202108.021.nc4 — HTTPSConnectionPool(host='d2b3c3wh8s6en5.cloudfront.net', port=443): Read timed out.
+2026-06-10 04:58:27,659 WARNING   [75/128] ✗ GLDAS_NOAH025_M.A202106.021.nc4 — HTTPSConnectionPool(host='d2b3c3wh8s6en5.cloudfront.net', port=443): Read timed out.
+2026-06-10 04:58:27,664 WARNING   [76/128] ✗ GLDAS_NOAH025_M.A202107.021.nc4 — HTTPSConnectionPool(host='d2b3c3wh8s6en5.cloudfront.net', port=443): Read timed out.
+2026-06-10 04:58:27,664 WARNING   [77/128] ✗ GLDAS_NOAH025_M.A202109.021.nc4 — HTTPSConnectionPool(host='d2b3c3wh8s6en5.cloudfront.net', port=443): Read timed out.
+2026-06-10 04:59:17,634 INFO   [78/128] ✓ GLDAS_NOAH025_M.A202112.021.nc4 — OK (24501 Ko)  (3.4 f/min)
+2026-06-10 05:00:27,745 WARNING Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='data.gesdisc.earthdata.nasa.gov', port=443): Read timed out. (read timeout=120)")': /data/GLDAS/GLDAS_NOAH025_M.2.1/2021/GLDAS_NOAH025_M.A202110.021.nc4
+2026-06-10 05:00:49,766 WARNING Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='data.gesdisc.earthdata.nasa.gov', port=443): Failed to resolve 'data.gesdisc.earthdata.nasa.gov' ([Errno -3] Temporary failure in name resolution)")': /data/GLDAS/GLDAS_NOAH025_M.2.1/2021/GLDAS_NOAH025_M.A202110.021.nc4
+2026-06-10 05:01:13,789 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='data.gesdisc.earthdata.nasa.gov', port=443): Failed to resolve 'data.gesdisc.earthdata.nasa.gov' ([Errno -3] Temporary failure in name resolution)")': /data/GLDAS/GLDAS_NOAH025_M.2.1/2021/GLDAS_NOAH025_M.A202110.021.nc4
+2026-06-10 05:01:19,304 WARNING   [79/128] ✗ GLDAS_NOAH025_M.A202201.021.nc4 — HTTPSConnectionPool(host='d2b3c3wh8s6en5.cloudfront.net', port=443): Read timed out.
+2026-06-10 05:01:19,312 WARNING   [80/128] ✗ GLDAS_NOAH025_M.A202111.021.nc4 — HTTPSConnectionPool(host='d2b3c3wh8s6en5.cloudfront.net', port=443): Read timed out.
+2026-06-10 05:01:22,381 WARNING   [81/128] ✗ GLDAS_NOAH025_M.A202202.021.nc4 — HTTPSConnectionPool(host='d2b3c3wh8s6en5.cloudfront.net', port=443): Read timed out.
+2026-06-10 05:01:41,810 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='data.gesdisc.earthdata.nasa.gov', port=443): Failed to resolve 'data.gesdisc.earthdata.nasa.gov' ([Errno -3] Temporary failure in name resolution)")': /data/GLDAS/GLDAS_NOAH025_M.2.1/2021/GLDAS_NOAH025_M.A202110.021.nc4
+2026-06-10 05:02:15,422 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NameResolutionError("HTTPSConnection(host='data.gesdisc.earthdata.nasa.gov', port=443): Failed to resolve 'data.gesdisc.earthdata.nasa.gov' ([Errno -3] Temporary failure in name resolution)")': /data/GLDAS/GLDAS_NOAH025_M.2.1/2021/GLDAS_NOAH025_M.A202110.021.nc4
+2026-06-10 05:02:51,691 INFO   [82/128] ✓ GLDAS_NOAH025_M.A202110.021.nc4 — OK (24870 Ko)  (3.1 f/min)
+2026-06-10 05:03:13,763 INFO   [83/128] ✓ GLDAS_NOAH025_M.A202206.021.nc4 — OK (24198 Ko)  (3.1 f/min)
+2026-06-10 05:03:19,404 WARNING Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='data.gesdisc.earthdata.nasa.gov', port=443): Read timed out. (read timeout=120)")': /data/GLDAS/GLDAS_NOAH025_M.2.1/2022/GLDAS_NOAH025_M.A202203.021.nc4
+2026-06-10 05:03:19,416 WARNING Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='data.gesdisc.earthdata.nasa.gov', port=443): Read timed out. (read timeout=120)")': /data/GLDAS/GLDAS_NOAH025_M.2.1/2022/GLDAS_NOAH025_M.A202204.021.nc4
+2026-06-10 05:03:22,490 WARNING Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='data.gesdisc.earthdata.nasa.gov', port=443): Read timed out. (read timeout=120)")': /data/GLDAS/GLDAS_NOAH025_M.2.1/2022/GLDAS_NOAH025_M.A202205.021.nc4
+2026-06-10 05:03:42,910 INFO   [84/128] ✓ GLDAS_NOAH025_M.A202207.021.nc4 — OK (23888 Ko)  (3.1 f/min)
+2026-06-10 05:04:29,085 INFO   [85/128] ✓ GLDAS_NOAH025_M.A202208.021.nc4 — OK (24220 Ko)  (3.0 f/min)
+2026-06-10 05:05:45,732 INFO   [86/128] ✓ GLDAS_NOAH025_M.A202209.021.nc4 — OK (24677 Ko)  (2.9 f/min)
+2026-06-10 05:06:16,025 INFO   [87/128] ✓ GLDAS_NOAH025_M.A202203.021.nc4 — OK (24735 Ko)  (2.9 f/min)
+2026-06-10 05:06:42,990 INFO   [88/128] ✓ GLDAS_NOAH025_M.A202204.021.nc4 — OK (24822 Ko)  (2.9 f/min)
+2026-06-10 05:06:46,801 INFO   [89/128] ✓ GLDAS_NOAH025_M.A202210.021.nc4 — OK (24955 Ko)  (2.9 f/min)
+2026-06-10 05:08:42,135 INFO   [90/128] ✓ GLDAS_NOAH025_M.A202301.021.nc4 — OK (24291 Ko)  (2.8 f/min)
+2026-06-10 05:08:48,897 INFO   [91/128] ✓ GLDAS_NOAH025_M.A202211.021.nc4 — OK (24594 Ko)  (2.8 f/min)
+2026-06-10 05:09:32,076 INFO   [92/128] ✓ GLDAS_NOAH025_M.A202212.021.nc4 — OK (24217 Ko)  (2.8 f/min)
+2026-06-10 05:34:56,806 WARNING Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='data.gesdisc.earthdata.nasa.gov', port=443): Read timed out. (read timeout=120)")': /data/GLDAS/GLDAS_NOAH025_M.2.1/2025/GLDAS_NOAH025_M.A202510.021.nc4
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/home/wiloic/M2/Recherche/tmp/pfas/ca-pfas-ml/src/download_gldas.py", line 180, in <module>
+    main(n_workers=args.workers)
+  File "/home/wiloic/M2/Recherche/tmp/pfas/ca-pfas-ml/src/download_gldas.py", line 153, in main
+    fname, ok, msg = fut.result()
+                     ^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wiloic/M2/Recherche/tmp/pfas/ca-pfas-ml/src/download_gldas.py", line 94, in _download_one
+    return fname, False, f"fichier trop petit ({part.stat().st_size} o)"
+                                                ^^^^^^^^^^^
+  File "/usr/lib/python3.12/pathlib.py", line 842, in stat
+    return os.stat(self, follow_symlinks=follow_symlinks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/wiloic/M2/Recherche/tmp/pfas/ca-pfas-ml/data/raw/environment/nasa_gldas/GLDAS_NOAH025_M.A202205.021.nc4.part'

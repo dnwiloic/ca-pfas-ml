@@ -1,0 +1,72 @@
+{
+  "target": "is_contaminated (EPA 2024 NPDWR)",
+  "n_features": 20,
+  "feature_categories": {
+    "Environmental": [
+      "rainfall_mm_month",
+      "runoff_mm",
+      "soil_moisture_total_mm",
+      "soil_sand_pct",
+      "soil_silt_pct",
+      "sand_silt_ratio"
+    ],
+    "Facility_Proximity": [
+      "dist_geotracker_km",
+      "n_geotracker_within_1km",
+      "n_geotracker_within_3km",
+      "n_geotracker_within_10km",
+      "n_geotracker_within_50km",
+      "geotracker_proximity"
+    ],
+    "Water_Quality": [
+      "cocontam_tds",
+      "cocontam_no3n",
+      "cocontam_so4",
+      "cocontam_tce",
+      "cocontam_pce",
+      "cocontam_mtbe"
+    ],
+    "Geospatial": [
+      "latitude",
+      "longitude"
+    ]
+  },
+  "n_train": 27802,
+  "n_val": 9268,
+  "n_test": 9268,
+  "results": [
+    {
+      "Model": "HGT alone",
+      "Accuracy": 0.7725507121277514,
+      "Precision": 0.7470328135908774,
+      "Recall": 0.7586858898605531,
+      "F1-Score": 0.7528142589118199,
+      "ROC-AUC": 0.8446027639382538
+    },
+    {
+      "Model": "XGBoost alone",
+      "Accuracy": 0.888541217091066,
+      "Precision": 0.8860453887011106,
+      "Recall": 0.8674072323327818,
+      "F1-Score": 0.8766272542696764,
+      "ROC-AUC": 0.9518313475788501
+    },
+    {
+      "Model": "Embedding Fusion",
+      "Accuracy": 0.892641346568839,
+      "Precision": 0.8917675544794189,
+      "Recall": 0.8704797920113448,
+      "F1-Score": 0.8809950962803492,
+      "ROC-AUC": 0.9541752177821723
+    },
+    {
+      "Model": "Stacking Ensemble",
+      "Accuracy": 0.8972809667673716,
+      "Precision": 0.8824352694191743,
+      "Recall": 0.8941148664618294,
+      "F1-Score": 0.8882366752758863,
+      "ROC-AUC": 0.9558910012492289
+    }
+  ],
+  "best_model": "Stacking Ensemble"
+}

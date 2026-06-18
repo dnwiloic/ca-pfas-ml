@@ -1,0 +1,43 @@
+analyte_article,col_reconstruction,n_article,pctNA_article,n_recon,pctNA_recon,pct_detect_recon,statut
+PFBA,PFBA,2198.0,91.83,25816.0,44.29,42.8,commun
+PFPeA,PFPeA,2300.0,91.45,25738.0,44.46,42.4,commun
+PFHxA,PFHxA,25538.0,5.07,44400.0,4.18,40.2,commun
+PFHpA,PFHpA,26086.0,3.03,45099.0,2.67,28.6,commun
+PFOA,PFOA,26885.0,0.06,46252.0,0.19,45.1,commun
+PFNA,PFNA,26112.0,2.93,45112.0,2.65,13.7,commun
+PFDA,PFDA,25608.0,4.81,44518.0,3.93,5.8,commun
+PFUnA,PFUnDA,25040.0,6.92,44532.0,3.9,0.9,commun
+PFDoA,PFDoDA,25040.0,6.92,43639.0,5.82,0.4,commun
+PFTrDA,PFTrDA,25609.0,4.8,26982.0,41.77,0.4,commun
+PFTA,PFTeDA,25608.0,4.81,27178.0,41.35,0.3,commun
+PFHxDA,(absent),220.0,99.18,,,,article seul
+PFODA,(absent),145.0,99.46,,,,article seul
+3:3FTCA,(absent),36.0,99.87,,,,article seul
+5:3FTCA,(absent),36.0,99.87,,,,article seul
+7:3FTCA,(absent),36.0,99.87,,,,article seul
+4:2FTS,FTS_4_2,2261.0,91.6,25850.0,44.21,1.4,commun
+6:2FTS,FTS_6_2,2277.0,91.54,25865.0,44.18,7.0,commun
+8:2FTS,FTS_8_2,2277.0,91.54,25873.0,44.16,3.1,commun
+10:2FTS,(absent),146.0,99.46,,,,article seul
+PFBS,PFBS,25380.0,5.65,44083.0,4.87,41.8,commun
+PFPeS,PFPeS,2252.0,91.63,25948.0,44.0,17.0,commun
+PFHxS,PFHxS,25381.0,5.65,44115.0,4.8,49.8,commun
+PFHpS,PFHpS,2314.0,91.4,25738.0,44.46,6.1,commun
+PFOS,PFOS,26879.0,0.08,46256.0,0.18,49.4,commun
+PFNS,(absent),1606.0,94.03,,,,article seul
+PFDS,PFDS,2294.0,91.47,6291.0,86.42,0.8,commun
+FOSA,PFOSAm,2308.0,91.42,6479.0,86.02,10.5,commun
+ETFOSE,(absent),292.0,98.91,,,,article seul
+ETFOSA,(absent),404.0,98.5,,,,article seul
+NETFOSAA,NEtFOSAA,25186.0,6.38,26860.0,42.03,1.0,commun
+MEFOSE,(absent),292.0,98.91,,,,article seul
+MEFOSA,(absent),425.0,98.42,,,,article seul
+NMEFOSAA,NMeFOSAA,25167.0,6.45,26809.0,42.14,0.4,commun
+ADONA,ADONA,21637.0,19.57,40652.0,12.27,0.0,commun
+HFPO-DA,HFPO_DA,21468.0,20.2,40588.0,12.41,0.1,commun
+11ClPF3OUDS,F53B_major,21776.0,19.05,40442.0,12.72,0.0,commun
+9ClPF3ONS,F53B_minor,21774.0,19.06,40441.0,12.73,0.0,commun
+(aucun),NFDHA,,,20729.0,55.27,0.0,reconstruction seul
+(aucun),PFEESA,,,20746.0,55.23,0.0,reconstruction seul
+(aucun),PFMBA,,,20730.0,55.26,0.2,reconstruction seul
+(aucun),PFMPA,,,20716.0,55.29,0.2,reconstruction seul

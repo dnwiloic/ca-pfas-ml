@@ -1,0 +1,72 @@
+2026-06-16 05:41:55,131 INFO Chargement & préparation des données…
+2026-06-16 05:41:55,796 INFO Matrice de labels : 46338 × 27
+2026-06-16 05:41:55,797 INFO   PFAS                       MCL(ng/L)    Tested    Positifs       Prev%
+2026-06-16 05:41:55,799 INFO   PFOS_ngL                        4.0     46256       18758       40.6%  [EPA 2024]
+2026-06-16 05:41:55,805 INFO   PFBS_ngL                        2.0     44083       18123       41.1%  [2 ng/L]
+2026-06-16 05:41:55,811 INFO   PFHxA_ngL                       2.0     44400       17767       40.0%  [2 ng/L]
+2026-06-16 05:41:55,814 INFO   PFOA_ngL                        4.0     46252       16282       35.2%  [EPA 2024]
+2026-06-16 05:41:55,817 INFO   FTS_6_2_ngL                     2.0     25865       12947       50.1%  [2 ng/L]
+2026-06-16 05:41:55,819 INFO   PFHpA_ngL                       2.0     45099       12903       28.6%  [2 ng/L]
+2026-06-16 05:41:55,826 INFO   PFBA_ngL                        2.0     25816       12677       49.1%  [2 ng/L]
+2026-06-16 05:41:55,828 INFO   FTS_8_2_ngL                     2.0     25873       11313       43.7%  [2 ng/L]
+2026-06-16 05:41:55,835 INFO   PFPeA_ngL                       2.0     25738       10877       42.3%  [2 ng/L]
+2026-06-16 05:41:55,844 INFO   PFHxS_ngL                      10.0     44115        6896       15.6%  [EPA 2024]
+2026-06-16 05:41:55,854 INFO   PFPeS_ngL                       2.0     25948        4704       18.1%  [2 ng/L]
+2026-06-16 05:41:55,860 INFO   NEtFOSAA_ngL                    2.0     26860        4387       16.3%  [2 ng/L]
+2026-06-16 05:41:55,869 INFO   NMeFOSAA_ngL                    2.0     26809        4272       15.9%  [2 ng/L]
+2026-06-16 05:41:55,879 INFO   PFDA_ngL                        2.0     44518        3811        8.6%  [2 ng/L]
+2026-06-16 05:41:55,881 INFO   FTS_4_2_ngL                     2.0     25850        3643       14.1%  [2 ng/L]
+2026-06-16 05:41:55,886 INFO   PFHpS_ngL                       2.0     25738        2170        8.4%  [2 ng/L]
+2026-06-16 05:41:55,887 INFO   PFUnDA_ngL                      2.0     44532        2197        4.9%  [2 ng/L]
+2026-06-16 05:41:55,894 INFO   PFDoDA_ngL                      2.0     43639        1947        4.5%  [2 ng/L]
+2026-06-16 05:41:55,905 INFO   F53B_minor_ngL                  2.0     40441        1898        4.7%  [2 ng/L]
+2026-06-16 05:41:55,913 INFO   ADONA_ngL                       2.0     40652        1775        4.4%  [2 ng/L]
+2026-06-16 05:41:55,915 INFO   PFTeDA_ngL                      2.0     27178        1762        6.5%  [2 ng/L]
+2026-06-16 05:41:55,923 INFO   PFTrDA_ngL                      2.0     26982        1721        6.4%  [2 ng/L]
+2026-06-16 05:41:55,927 INFO   PFOSAm_ngL                      2.0      6479        1667       25.7%  [2 ng/L]
+2026-06-16 05:41:55,933 INFO   PFNA_ngL                       10.0     45112        1434        3.2%  [EPA 2024]
+2026-06-16 05:41:55,934 INFO   F53B_major_ngL                  2.0     40442        1176        2.9%  [2 ng/L]
+2026-06-16 05:41:55,939 INFO   PFDS_ngL                        2.0      6291        1078       17.1%  [2 ng/L]
+2026-06-16 05:41:55,940 INFO   NFDHA_ngL                       2.0     20729         773        3.7%  [2 ng/L]
+2026-06-16 05:41:56,115 INFO Localisation retirée (protocole Dong et al.) : county, dwr_basin, dwr_region, latitude, longitude, regional_board, sgma_basin_name, sgma_region_office, sgma_subbasin_name
+2026-06-16 05:41:56,123 INFO Features : 93 numériques + 4 catégorielles = 97 total
+2026-06-16 05:41:57,286 INFO Train : 37070  |  Test : 9268
+2026-06-16 05:41:57,286 INFO Entraînement de l'approche CLASS (4 chaînes indépendantes)…
+2026-06-16 05:41:57,287 INFO ── Classe 0 (10 PFAS, pseudo=False) ──
+2026-06-16 05:44:59,394 INFO   [01/10] PFOS_ngL                   étiq.= 37004  pos=40.6%  pseudo=   0
+2026-06-16 05:48:46,985 INFO   [02/10] PFOA_ngL                   étiq.= 37004  pos=35.2%  pseudo=   0
+2026-06-16 05:52:37,534 INFO   [03/10] PFNA_ngL                   étiq.= 36089  pos=3.2%  pseudo=   0
+2026-06-16 05:55:16,181 INFO   [04/10] PFHpA_ngL                  étiq.= 36081  pos=28.7%  pseudo=   0
+2026-06-16 05:58:20,029 INFO   [05/10] PFUnDA_ngL                 étiq.= 35620  pos=4.9%  pseudo=   0
+2026-06-16 06:01:38,823 INFO   [06/10] PFDA_ngL                   étiq.= 35609  pos=8.6%  pseudo=   0
+2026-06-16 06:04:58,296 INFO   [07/10] PFHxA_ngL                  étiq.= 35516  pos=40.0%  pseudo=   0
+2026-06-16 06:08:08,756 INFO   [08/10] PFHxS_ngL                  étiq.= 35298  pos=15.7%  pseudo=   0
+2026-06-16 06:09:15,888 INFO   [09/10] PFBS_ngL                   étiq.= 35269  pos=41.0%  pseudo=   0
+2026-06-16 06:09:21,874 INFO   [10/10] PFDoDA_ngL                 étiq.= 34890  pos=4.5%  pseudo=   0
+2026-06-16 06:09:21,888 INFO ── Classe 1 (3 PFAS, pseudo=False) ──
+2026-06-16 06:09:26,507 INFO   [01/03] ADONA_ngL                  étiq.= 32513  pos=4.3%  pseudo=   0
+2026-06-16 06:09:31,103 INFO   [02/03] F53B_major_ngL             étiq.= 32352  pos=2.9%  pseudo=   0
+2026-06-16 06:09:36,298 INFO   [03/03] F53B_minor_ngL             étiq.= 32351  pos=4.7%  pseudo=   0
+2026-06-16 06:09:36,298 INFO ── Classe 2 (11 PFAS, pseudo=True) ──
+2026-06-16 06:09:45,079 INFO   [01/11] PFTeDA_ngL                 étiq.= 21754  pos=6.4%  pseudo=14333
+2026-06-16 06:09:54,431 INFO   [02/11] PFTrDA_ngL                 étiq.= 21591  pos=6.3%  pseudo=15083
+2026-06-16 06:10:04,813 INFO   [03/11] NEtFOSAA_ngL               étiq.= 21498  pos=16.2%  pseudo=14421
+2026-06-16 06:10:14,380 INFO   [04/11] NMeFOSAA_ngL               étiq.= 21448  pos=15.8%  pseudo=15182
+2026-06-16 06:10:23,518 INFO   [05/11] PFPeS_ngL                  étiq.= 20713  pos=18.2%  pseudo=9172
+2026-06-16 06:10:29,887 INFO   [06/11] FTS_8_2_ngL                étiq.= 20648  pos=43.6%  pseudo=4069
+2026-06-16 06:10:37,410 INFO   [07/11] FTS_6_2_ngL                étiq.= 20640  pos=49.9%  pseudo=9853
+2026-06-16 06:10:46,741 INFO   [08/11] FTS_4_2_ngL                étiq.= 20632  pos=14.0%  pseudo=15510
+2026-06-16 06:10:54,429 INFO   [09/11] PFBA_ngL                   étiq.= 20605  pos=49.1%  pseudo=3336
+2026-06-16 06:11:02,284 INFO   [10/11] PFPeA_ngL                  étiq.= 20543  pos=42.2%  pseudo=5781
+2026-06-16 06:11:13,393 INFO   [11/11] PFHpS_ngL                  étiq.= 20545  pos=8.4%  pseudo=15870
+2026-06-16 06:11:13,403 INFO ── Classe 3 (3 PFAS, pseudo=True) ──
+2026-06-16 06:11:22,007 INFO   [01/03] NFDHA_ngL                  étiq.= 16553  pos=3.7%  pseudo=15728
+2026-06-16 06:11:25,203 INFO   [02/03] PFOSAm_ngL                 étiq.=  5169  pos=26.0%  pseudo=  29
+2026-06-16 06:11:30,708 INFO   [03/03] PFDS_ngL                   étiq.=  5019  pos=17.2%  pseudo=17720
+2026-06-16 06:11:32,473 INFO Modèle CLASS figé → /home/wiloic/M2/Recherche/tmp/pfas/ca-pfas-ml/models/class_multilabel.pkl
+2026-06-16 06:11:32,476 INFO ════════════════════════════════════════════════
+2026-06-16 06:11:32,477 INFO MODÈLE CLASS FIGÉ — Test set
+2026-06-16 06:11:32,477 INFO   Macro-AUROC : 0.9661
+2026-06-16 06:11:32,477 INFO   Micro-F1    : 0.8560
+2026-06-16 06:11:32,477 INFO   Hamming     : 0.1535
+2026-06-16 06:11:32,477 INFO ════════════════════════════════════════════════
