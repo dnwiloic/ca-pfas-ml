@@ -1,0 +1,14 @@
+feature,rank_rf,rank_xgb,rank_hgt,rank_moyen
+gm_well_category,9,3,1,4.333333333333333
+flow_dir_sin,3,22,11,12.0
+county,15,4,17,12.0
+regional_board,11,1,27,13.0
+depth_to_water_m,8,23,20,17.0
+depth_to_water_log1p,7,25,30,20.666666666666668
+cocontam_dca11,28,12,26,22.0
+n_geotracker_within_10km,14,18,41,24.333333333333332
+soil_texture_class,30,28,18,25.333333333333332
+longitude,4,17,63,28.0
+n_geotracker_within_50km,1,2,87,30.0
+cocontam_pce,21,26,44,30.333333333333332
+latitude,2,9,93,34.666666666666664

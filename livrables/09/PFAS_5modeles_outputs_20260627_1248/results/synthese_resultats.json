@@ -1,0 +1,70 @@
+{
+  "target": "EPA 2024 NPDWR (MCL individuels + Indice de Risque melange)",
+  "dataset": {
+    "n_total": 46338,
+    "n_features": 103,
+    "n_num": 96,
+    "n_cat": 7,
+    "n_pos": 21154,
+    "pct_pos": 45.65
+  },
+  "split": {
+    "train": 27802,
+    "val": 9268,
+    "test": 9268
+  },
+  "config": {
+    "OPTUNA_MODE": "FULL",
+    "EPOCHS_HGT": 300,
+    "MISSING_THRESHOLD": 0.4,
+    "USE_SMOTE": false
+  },
+  "results": {
+    "Random Forest": {
+      "roc_auc": 0.9788,
+      "avg_precision": 0.9759,
+      "accuracy": 0.9306,
+      "balanced_accuracy": 0.9297,
+      "precision": 0.9282,
+      "recall": 0.9192,
+      "f1": 0.9236
+    },
+    "XGBoost": {
+      "roc_auc": 0.9769,
+      "avg_precision": 0.9745,
+      "accuracy": 0.9285,
+      "balanced_accuracy": 0.9279,
+      "precision": 0.9221,
+      "recall": 0.9211,
+      "f1": 0.9216
+    },
+    "HGT": {
+      "roc_auc": 0.949,
+      "avg_precision": 0.9391,
+      "accuracy": 0.8842,
+      "balanced_accuracy": 0.8846,
+      "precision": 0.862,
+      "recall": 0.8887,
+      "f1": 0.8751
+    },
+    "Embedding Fusion": {
+      "roc_auc": 0.9664,
+      "avg_precision": 0.9633,
+      "accuracy": 0.906,
+      "balanced_accuracy": 0.9057,
+      "precision": 0.8936,
+      "recall": 0.9014,
+      "f1": 0.8975
+    },
+    "Stacking": {
+      "roc_auc": 0.9779,
+      "avg_precision": 0.9745,
+      "accuracy": 0.9297,
+      "balanced_accuracy": 0.9293,
+      "precision": 0.9208,
+      "recall": 0.9255,
+      "f1": 0.9231
+    }
+  },
+  "best_model_f1": "Random Forest"
+}

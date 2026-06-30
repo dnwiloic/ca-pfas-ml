@@ -1,0 +1,11 @@
+feature,rank_rf,rank_xgb,rank_hgt,rank_moyen
+gm_well_category,11,2,3,5.333333333333333
+depth_to_water_m,4,14,27,15.0
+n_geotracker_within_10km,10,4,43,19.0
+n_geotracker_within_50km,1,1,57,19.666666666666668
+depth_to_water_log1p,3,9,48,20.0
+flow_dir_sin,2,15,44,20.333333333333332
+aqs_wind_ms,12,20,36,22.666666666666668
+cocontam_dca11,24,18,31,24.333333333333332
+soil_texture_class,29,30,35,31.333333333333332
+aqs_no2_ppb,13,28,54,31.666666666666668
